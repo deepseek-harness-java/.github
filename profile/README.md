@@ -35,7 +35,7 @@
 
 ### 方式一：一句话生成（推荐）
 
-安装技能包 [dsh-java-plugin-skills](https://github.com/deepseek-harness-java/dsh-java-plugin-skills) 后，在 WorkBuddy / CodeBuddy 里说一句话即可完成「开发 + 部署 + 启动 + 插件接入 + 验证」全链路：
+安装技能包 [dsh-java-plugin-skills](https://github.com/deepseek-harness-java/dsh-java-plugin-skills) 后，在 [WaLiCode](https://walicode.xiaofuge.cn/) / Codex / WorkBuddy / CodeBuddy 里说一句话即可完成「开发 + 部署 + 启动 + 插件接入 + 验证」全链路：
 
 | 说法 | 效果 |
 |---|---|
