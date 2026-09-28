@@ -1,6 +1,6 @@
 # deepseek-harness-java · DSH Java 智能体生态
 
-> **一句话读懂**：本组织是 [deepseek-harness-java（DSH）](https://github.com/deepseek-harness-java/dsh-java-plugin-skills) 的官方仓库群 —— **1 个技能包 + 27 个独立 AI 产品 + 74 个行业场景案例**，全部基于 DSH Java Native Plugin 机制，开箱即跑、端到端验证过。
+> **一句话读懂**：本组织是 [deepseek-harness-java（DSH）](https://github.com/deepseek-harness-java/dsh-java-plugin-skills) 的官方仓库群 —— **1 个技能包 + 27 个独立 AI 产品 + 74 个行业场景案例**，全部基于 DSH Java Native Plugin 机制，开箱即跑、端到端验证过。📢 **官网**：[https://dsh-java.xiaofuge.cn](https://dsh-java.xiaofuge.cn/)
 
 [![Java](https://img.shields.io/badge/Java-17-orange)](https://openjdk.java.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen)](https://spring.io/projects/spring-boot)
